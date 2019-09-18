@@ -64,7 +64,7 @@ way["natural"="scrub"];
 
 
 ### Nesting Species
-# Updated 2019.01.30
+# Updated 2019.09.17
 NEST_G1 = [
     1, 4, 7, 25, 35, 37, 43,
     54, 58, 60, 63, 66, 72,
@@ -85,8 +85,11 @@ NEST_G3 = [
 NEST_G4 = [
     387, 390, 393, 399, 449
 ]
+NEST_G5 = [
+    495, 498, 501, 522
+]
 NEST_SPECIES_LIST = (
-    NEST_G1 + NEST_G2 + NEST_G3 + NEST_G4)
+    NEST_G1 + NEST_G2 + NEST_G3 + NEST_G4 + NEST_G5)
 
 # SQL Queries #
 ###############
